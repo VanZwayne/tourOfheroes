@@ -1,0 +1,123 @@
+body{
+    background-image: url("../assets/college-background-images-for-website-7.jpg");
+   
+    background-size: contain;
+    background-repeat: repeat;
+    height: 100%;
+}
+#fop{
+
+    background-color: rgba(148, 250, 65, 0.842);
+	margin-top:1px;
+	margin-left:150px;
+	margin-right:150px;
+	padding:5px;
+	border-radius: 2px;
+	text-align: center;
+	color:rgb(1, 12, 15); 
+}
+#set{
+    background-color: rgba(65, 108, 250, 0.233);
+	margin-top:0px;
+	margin-left:15px;
+	margin-right:140px;
+	padding:130px;
+	border-radius: 5px;
+	text-align:unset;
+	color:rgb(1, 12, 15); 
+}
+#container{
+
+    background-color:rgba(0, 0, 0, 0.185);
+    margin-left:15px;
+    margin-right:150px;
+    border-radius:5px;
+	padding:1px;
+	
+}
+#name{
+
+     margin:5px;
+	 padding:5px;
+	 border-radius:5px;
+}
+#sname{
+	 margin:5px;
+	 padding:5px;
+	 border-radius:5px;
+}
+#age{
+
+	 margin:5px;
+	 padding:5px;
+	 border-radius:5px;
+}
+#natio{
+
+    margin:5px;
+    padding:5px;
+    border-radius:5px;
+}
+button{
+    background-color:darkgreen;
+    margin:5px;
+    border-radius:3px;
+	padding:1px;
+	color:white;
+}
+p{
+    background-color:rgb(10, 65, 10);
+	margin:30px;
+	padding: 10px;
+	border-radius: 4px;
+    color:darkblue;
+}
+#gnd{
+    margin:5px;
+	 padding:5px;
+	 border-radius:5px;
+}
+#mail{
+    margin:5px;
+	 padding:5px;
+	 border-radius:5px;
+}
+#addr{
+    margin:5px;
+	 padding:5px;
+	 border-radius:5px;
+}
+#pnum{
+    margin:5px;
+	 padding:5px;
+     border-radius:5px;
+     align-self: flex-start;
+     align-items: center
+}
+#hd{
+    color:darkblue;
+    Font: Times;
+}
+#idn{
+    margin:5px;
+	 padding:5px;
+     border-radius:5px;
+     vertical-align:middle;
+     align-items: center;
+     align-self: flex-start
+     
+}
+#dob{
+    margin:5px;
+	 padding:5px;
+     border-radius:5px;
+     vertical-align:middle;
+     align-items: center;
+     align-self: flex-start
+}
+label {
+  align-self: flex-start
+}
+* {
+  margin: 10px
+}
